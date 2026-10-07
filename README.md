@@ -1,2 +1,2 @@
-# Exerc-cios-em-C
+# Exercicios-em-C
 Guardar exercícios em C.
