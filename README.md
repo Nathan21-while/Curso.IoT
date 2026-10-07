@@ -1,2 +1,2 @@
 # Exercicios-em-C
-Guardar exercícios em C.
+Intuito de guardar exercícios em C.
